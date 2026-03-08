@@ -1,6 +1,6 @@
 package ch_3_operators;
 
-public class pro_3_Relational_Operators {
+public class Pro_3_Relational_Operators {
 
 	public static void main(String[] args) {
 		// 1.Compare Two Numbers using greater than operator(>)
