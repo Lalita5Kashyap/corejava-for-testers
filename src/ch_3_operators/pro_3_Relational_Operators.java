@@ -71,19 +71,19 @@ public class pro_3_Relational_Operators {
 			System.out.println("a's value is not similar to b ");
 		}
 		System.out.println("******************");
-		
-		// 6.Compare Two Numbers using equal to equal to operator(!=)
-				int a5 = 0;
-				int b5 = 12;
 
-				// logic a5!=b5
-				// use if-else condition statement
-				if (a5 != b5) {
-					System.out.println("a is not equal to b ");
-				} else {
-					System.out.println("a is equal to b ");
-				}
-				System.out.println("******************");
+		// 6.Compare Two Numbers using equal to equal to operator(!=)
+		int a5 = 0;
+		int b5 = 12;
+
+		// logic a5!=b5
+		// use if-else condition statement
+		if (a5 != b5) {
+			System.out.println("a is not equal to b ");
+		} else {
+			System.out.println("a is equal to b ");
+		}
+		System.out.println("******************");
 
 	}
 
