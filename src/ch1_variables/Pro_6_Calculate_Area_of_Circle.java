@@ -8,7 +8,7 @@ public class Pro_6_Calculate_Area_of_Circle {
 		int radius=3;
 		double pi=3.14;//value of pi
 		double area;
-		//logic
+		//logic area = π * r * r
 		 area=radius*radius*pi;
 		 System.out.print("Area of circle: ");
 		 System.out.println(area);

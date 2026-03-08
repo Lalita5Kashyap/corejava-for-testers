@@ -8,7 +8,7 @@ public class Pro_5_Calculate_Area_of_Rectangle {
 				int length=3;
 				int breadth=8;
 				int area;
-				//logic
+				//logic area = length * width
 				 area=length*breadth;
 				 System.out.print("Area of rectanle: ");
 				 System.out.println(area);

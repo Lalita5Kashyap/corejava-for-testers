@@ -8,7 +8,7 @@ public class Pro_2_Swap_Two_Numbers_Using_Temporary_Variable {
 		int a=3;
 		int b=8;
 		int temp;
-		//logic
+		//logic a=8 and b=3
 		 temp=a;
 		 a=b;
 		 b=temp;

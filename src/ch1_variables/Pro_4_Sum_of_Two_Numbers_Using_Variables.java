@@ -8,7 +8,7 @@ public class Pro_4_Sum_of_Two_Numbers_Using_Variables {
 				int a=3;
 				int b=8;
 				int sum;
-				//logic
+				//logic a+b
 				 sum=a+b;
 				 System.out.print("Sum of a+b: ");
 				 System.out.println(sum);

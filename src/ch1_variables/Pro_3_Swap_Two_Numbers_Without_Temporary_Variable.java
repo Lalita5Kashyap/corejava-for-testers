@@ -8,7 +8,7 @@ public class Pro_3_Swap_Two_Numbers_Without_Temporary_Variable {
 				int a=3;
 				int b=8;
 				
-				//logic
+				//logic a=8 and b=3
 				 a=a+b;//3+8=11
 				 b=a-b;//11-8=3
 				 a=a-b;//11-3=8
