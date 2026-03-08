@@ -8,7 +8,7 @@ public class Pro_7_ConvertCelsiustoFahrenheit {
 				int temperature=3;
 				double F;
 				//logic F = (C * 9/5) + 32
-				 F=(3 * 9/5) + 32;
+				 F=(temperature * 9/5) + 32;
 				 System.out.print("After converting the celsius temperature into farenhite: ");
 				 System.out.println(F);
 	}
